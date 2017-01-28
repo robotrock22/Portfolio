@@ -20,3 +20,13 @@ h1 {
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
 }
+
+.panel-heading {
+  text-align: center;
+}
+
+.important {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: fantasy;
+}
